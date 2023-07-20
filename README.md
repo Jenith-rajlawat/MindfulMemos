@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# MindfulMemos
+MindfulMemos is a comprehensive and beginner-friendly crash course repository built using ReactJS, leveraging the power of useState, props, hooks, and eventListeners like onClick and onChange. This repository serves as a stepping stone to elevate your React projects or enhance your understanding of fundamental React concepts.
+
